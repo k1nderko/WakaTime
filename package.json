@@ -1,0 +1,17 @@
+{
+  "name": "wakatime",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mykhailov <k1nderko27@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "dayjs": "^1.11.13",
+    "dotenv": "^16.5.0"
+  }
+}
